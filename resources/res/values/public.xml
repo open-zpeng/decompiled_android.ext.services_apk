@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="array" name="autofill_field_classification_available_algorithms" id="0x7f010000" />
+    <public type="drawable" name="ic_action_open" id="0x7f020000" />
+    <public type="drawable" name="ic_menu_copy_material" id="0x7f020001" />
+    <public type="string" name="app_name" id="0x7f030000" />
+    <public type="string" name="autofill_field_classification_default_algorithm" id="0x7f030001" />
+    <public type="string" name="code_copied_to_clipboard" id="0x7f030002" />
+    <public type="string" name="copy_code_desc" id="0x7f030003" />
+    <public type="string" name="notification_assistant" id="0x7f030004" />
+</resources>
